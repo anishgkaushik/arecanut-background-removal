@@ -1,0 +1,1 @@
+This project involves designing and implementing a web application that utilizes machine learning and deep learning models, such as U-Net, to accurately recognize and select areca nut bunches from images. The application provides users with meaningful images of the required areca nuts and includes a download option for further use.
